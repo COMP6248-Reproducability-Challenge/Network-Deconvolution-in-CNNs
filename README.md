@@ -10,13 +10,17 @@ The experimental results are consistent with the authors' conclusion no matter i
 
  ## Dependencies
 
-Python: 3.6
+- python == 3.6
 
-Pytorch: 1.6.0
 
-Tensorflow: 2.3.0
+- pytorch == 1.6.0
 
-CUDA: 10.1
+
+- tensorflow == 2.3.0
+
+
+- CUDA == 10.1
+
 
  ## Settings Overview
  According to the author's instructions, the model can be run by the command. 
